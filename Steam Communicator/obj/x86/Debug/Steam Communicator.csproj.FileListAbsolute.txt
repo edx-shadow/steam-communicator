@@ -1,0 +1,8 @@
+C:\Reverse\Tyapp\Super Lobby Tool (Public)\Steam_Communicator\Steam Communicator\bin\Debug\Steam Communicator.exe
+C:\Reverse\Tyapp\Super Lobby Tool (Public)\Steam_Communicator\Steam Communicator\bin\Debug\Steam Communicator.pdb
+C:\Reverse\Tyapp\Super Lobby Tool (Public)\Steam_Communicator\Steam Communicator\bin\Debug\Steamworks.NET.dll
+C:\Reverse\Tyapp\Super Lobby Tool (Public)\Steam_Communicator\Steam Communicator\obj\x86\Debug\Steam Communicator.csprojAssemblyReference.cache
+C:\Reverse\Tyapp\Super Lobby Tool (Public)\Steam_Communicator\Steam Communicator\obj\x86\Debug\Steam Communicator.csproj.CoreCompileInputs.cache
+C:\Reverse\Tyapp\Super Lobby Tool (Public)\Steam_Communicator\Steam Communicator\obj\x86\Debug\Steam Communicator.csproj.CopyComplete
+C:\Reverse\Tyapp\Super Lobby Tool (Public)\Steam_Communicator\Steam Communicator\obj\x86\Debug\Steam Communicator.exe
+C:\Reverse\Tyapp\Super Lobby Tool (Public)\Steam_Communicator\Steam Communicator\obj\x86\Debug\Steam Communicator.pdb
